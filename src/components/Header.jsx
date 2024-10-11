@@ -1,3 +1,5 @@
+import NavigationMenu from "./NavigationMenu";
+
 export default function Header() {
     return (
       <header>
